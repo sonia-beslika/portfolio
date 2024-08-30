@@ -1,4 +1,4 @@
-<img src='/welcome-banner.png' alt="banner"></img>
+<img src='/images/welcome-banner.png' alt="banner"></img>
 
 :wave: Hi, I'm Sonia, a maths undergraduate at The Open University, with an interest in meteorology and oceanography.
 
