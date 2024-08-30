@@ -1,8 +1,6 @@
-# Portfolio
+# Portfolio: Independent Projects
 
 ---
-
-### Independent Projects
 
 ## [River Flow Project](https://sonia-beslika.github.io/River-Flow-Project/)
 
@@ -10,7 +8,9 @@
 
 ---
 
-### OU Modules
+# OU Modules
+
+---
 
 ## [Python for MS327](https://github.com/sonia-beslika/Python-for-MS327)
 
