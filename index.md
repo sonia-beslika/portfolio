@@ -2,7 +2,7 @@
 
 ---
 
-### Independent Work 
+### Independent Projects
 
 [River Flow Project]((https://sonia-beslika.github.io/River-Flow-Project/)
 
