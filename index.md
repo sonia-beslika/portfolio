@@ -4,7 +4,7 @@
 
 ### Independent Projects
 
-[River Flow Project]((https://sonia-beslika.github.io/River-Flow-Project/)
+[River Flow Project](https://sonia-beslika.github.io/River-Flow-Project/)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
