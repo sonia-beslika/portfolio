@@ -10,6 +10,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.datacamp.com/portfolio/soniabeslika">My DataCamp Portfolio</a> 
   <br><br>
 remote_theme: pages-themes/minimal@v0.2.0
-<br><br>
+
 plugins:
 - jekyll-remote-theme
+
+- google_analytics: UA-000000-0
