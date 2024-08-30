@@ -12,7 +12,7 @@
 
 ### OU Modules
 
-## [Python for MS327](http://example.com/)
+## [Python for MS327](https://github.com/sonia-beslika/Python-for-MS327)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
