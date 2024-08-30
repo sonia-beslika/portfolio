@@ -14,7 +14,7 @@
 
 ## [Python for MS327](https://github.com/sonia-beslika/Python-for-MS327)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ms327.png?raw=true" alt="Module artwork" width="446" height="362"/>
 
 ---
 
