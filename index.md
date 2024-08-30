@@ -6,7 +6,7 @@
 
 [River Flow Project](https://sonia-beslika.github.io/River-Flow-Project/)
 
-<img src="images/Bathford-Station-Image.jpg?raw=true"/>
+<img src="images/Bathford-Station-Image.jpg?raw=true"  alt="Bathford Station" width="446" height="362"/>
 
 ---
 
